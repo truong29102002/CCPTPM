@@ -5,7 +5,7 @@
     <i>
        We are Group 2.<br>
         
-    </i><br>
+<!--     </i><br> -->
 <!--     <a href="https://www.linkedin.com/in/wervlad">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
