@@ -1,13 +1,12 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <b>Welcome to we page!</b><br><br>
     <i>
-        I'm Vladimir.<br>
-        Currently learning to walk in ML/DL without falling on my bottom.<br>
-        Open to collaborating on interesting and innovative projects.<br>
-    </i><br>
-    <a href="https://www.linkedin.com/in/wervlad">
+       We are Group 2.<br>
+        
+<!--     </i><br> -->
+<!--     <a href="https://www.linkedin.com/in/wervlad">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://www.kaggle.com/wervlad">
@@ -73,8 +72,8 @@
   <a href="https://github.com/wervlad">
     <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
   </a>
-</p>
-<!--
+</p> -->
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -84,4 +83,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
